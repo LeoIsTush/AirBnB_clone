@@ -66,5 +66,5 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 
--Newton Ombese Nyabate
--Florence Wangui
+-Lawson Osuji
+-Ramy Mostafa
